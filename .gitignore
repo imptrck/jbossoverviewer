@@ -1,4 +1,4 @@
-.settings
+.settings/
 .tern-project
 target/*
 .project
